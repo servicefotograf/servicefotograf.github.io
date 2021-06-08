@@ -42,16 +42,17 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "mjfsjjle7k",
+    "mbrsiteDomain": "fi6my2zpee",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
     "uniqCompNum": 20,
     "versionPublish": "5.3.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
